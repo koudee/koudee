@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @koudee
-- 👀 I’m interested in ethical hacking and making games.
-- 🌱 I’m currently learning ethical hacking and how to develope games
+- 👀 I’m interested in ethical hacking and building websites.
+- 🌱 I’m currently learning ethical hacking and how to develope websites
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... dask9344@gmail.com
 
 <!---
 koudee/koudee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
